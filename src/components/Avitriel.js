@@ -3,7 +3,7 @@ import React from 'react'
 const Avitriel = () => {
   return (
     <div>
-      trial by avi
+      trial by avikmknkcdxc
     </div>
   )
 }
